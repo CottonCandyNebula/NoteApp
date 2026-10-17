@@ -23,6 +23,7 @@ key.properties
 google-services.json
 
 # Универсальные паттерны (вместо /build и .gradle)
+.idea/
 build/
 .gradle/
 
